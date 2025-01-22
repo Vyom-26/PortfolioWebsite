@@ -79,7 +79,7 @@ const About = () => {
                                      target="_blank"
                                      rel="noopener noreferrer"
                                      className="link-style">
-                                4 star Codechef (max 1679 rating)
+                                4 star Codechef (max 1879 rating)
                             </a>
 
                             </p>
@@ -97,7 +97,7 @@ const About = () => {
                                      target="_blank"
                                      rel="noopener noreferrer"
                                      className="link-style">
-                                Specialist CoderForces (max 1433 rating)
+                                Specialist CoderForces (max 1443 rating)
                             </a>
 
                             </p>
