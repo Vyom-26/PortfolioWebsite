@@ -9,6 +9,6 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    include: ['@react-three/fiber', '@react-three/drei', 'react-responsive'],
+    include: ['@react-three/fiber', '@react-three/drei', 'react-responsive'], //comment
   },
 });
